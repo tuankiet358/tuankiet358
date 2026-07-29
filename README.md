@@ -36,7 +36,7 @@
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Handle      →  tuankiet358                                          ║
 ║  Name        →  Davon Reaper                                         ║
-║  Studio      →  TWIN CORE Studio  —  Founder & Lead Developer        ║
+║  Studio      →  TWIN CORE Studio  —  Lead Developer                  ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  SPECIALIZATIONS                                                     ║
 ║  ·  Discord Bot Architecture & Advanced Security Systems             ║
