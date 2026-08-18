@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krin%20Nguyen&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=tuankiet358%20%E2%80%94%20KANA%20BOT%20Studio&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=640&height=50&lines=Developer+%40+KANA+BOT+Studio;Discord+Bot+Architect+%7C+Security+Systems;Full-Stack+Web+Developer+%7C+Open-Source+Advocate;Building+tools+that+protect+and+empower+communities.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&random=false&width=640&height=50&lines=Developer+%40+TWIN+CORE+Studio;Discord+Bot+Architect+%7C+Security+Systems;Full-Stack+Web+Developer+%7C+Open-Source+Advocate;Building+tools+that+protect+and+empower+communities.)](https://git.io/typing-svg)
 
 <br/>
 
