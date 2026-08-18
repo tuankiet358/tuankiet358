@@ -36,7 +36,7 @@
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  Handle      →  tuankiet358                                          ║
 ║  Name        →  Krin Nguyen                                          ║
-║  Studio      →  TWIN CORE Studio  —  KANA BOT Studio                 ║
+║  Studio      →  TWIN CORE Studio                                     ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  SPECIALIZATIONS                                                     ║
 ║  ·  Discord Bot Architecture & Advanced Security Systems             ║
